@@ -44,6 +44,7 @@ Thumbs.db
 # Playwright / browser testing artifacts
 .playwright/
 .playwright-mcp/
+.playwright-cli/
 
 # Analysis / generated artifacts
 file_graphs/
