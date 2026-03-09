@@ -49,5 +49,9 @@ Thumbs.db
 # Analysis / generated artifacts
 file_graphs/
 
+# Demo media
+docs/*.gif
+docs/*.mp4
+
 # Session logs
 *.jsonl
